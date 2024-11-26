@@ -1,8 +1,8 @@
-# React + Vite
+# FilmVault - IMDB 2.0
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is an application for users that watch movies regularly. In this app, users can select movies to add them in their watchlist, able to filter out movies according to genre, sort them according to ratings in ascending or descending order and can also remove from watchlist if they already watched.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Tech Stack-
+- Reactjs
+- TailwindCSS
+- TMDB API
